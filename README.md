@@ -4,4 +4,4 @@ Template für die Einsendeaufgabe "Thumbnail" der Class "Einführung in Node.js"
 </p>
 
 ## Thumbnail
-*Thumbnail* ist eine CLI-Applikation, bei der Sie mithilfe der Bibliothek *sharp* Bilddateien programmatisch verkleinern. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Thumbnail* ist eine CLI-Applikation, bei der mithilfe der Bibliothek *sharp* Bilddateien programmatisch verkleinert werden können. Dieses Template ist der Ausgangspunkt, von dem aus du in die Einsendeaufgabe starten kannst. Hier kannst du dich austoben, deiner Kreativität sind keine Grenzen gesetzt.
